@@ -24,3 +24,4 @@ if d2 != 0:
     print("Division: " + str(d1 / d2))  # Perform division and convert the result to string for printing
 else:
     print("Error: Division by zero is not allowed.")
+
