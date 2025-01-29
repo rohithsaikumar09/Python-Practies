@@ -39,4 +39,4 @@ del li1[1]
 print(li1)#[10, 44.45, True, 20]
 
 del li1
-print(li1)#Error:name 'li1' is not defined
+#print(li1)#Error:name 'li1' is not defined
