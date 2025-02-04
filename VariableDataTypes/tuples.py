@@ -4,12 +4,12 @@ In tuples we can store Duplicates.
 Tuples are ordered Collection of Data.
 Tuples are Immutable: Once we declare the tuple we cannot modify it.
 '''
-tup1= (10,22.55,'Kondets',True,10)
+tup1= (10,22.55,'Rohith',True,10)
 print(tup1)#(10, 22.55, 'Kondets', True, 10)
 #tup1.remove(55)
 #tup1.pop()
 #del tup1[2]
-print(tup1[2])#'Kodnest'
+print(tup1[2])#'Rohith'
 
 #Deletes the complete tup1 object
 del tup1
