@@ -6,4 +6,4 @@ class Student:
 
 s1 = Student()
 s1.learn()
-# s1.play() #  Student.play() takes 0 positional arguments but 1 was given
+s1.play() #  Student.play() takes 0 positional arguments but 1 was given
